@@ -19,4 +19,5 @@
 ### 2. End to End automatic image tilt angle detection
 - Exploration of Canny Edges and Hough linies detection
 - demonstrated automatic tilt angle detection in an image and correction
+
 (for the code file please refer: End_to_end_Auto_Image_tilt_angle_detection_and_correction.ipynb and input file: DemoImage.png)
