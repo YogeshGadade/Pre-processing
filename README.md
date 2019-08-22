@@ -21,3 +21,6 @@
 - demonstrated automatic tilt angle detection in an image and correction
 
 (for the code file please refer: End_to_end_Auto_Image_tilt_angle_detection_and_correction.ipynb and input file: DemoImage.png)
+
+### 3. Automatic cropping of white border in an image:
+- Please refer these files: Crop_white_border_in_an_image.ipynb, whiteBorderImage.png, WhiteBorderTestSample2.png, WhiteBorderTestSample3.png, WhiteBorderTestSample4.png
